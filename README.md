@@ -30,9 +30,7 @@ Lab 1 | None
 Lab 2 | None
 Lab 3 | None
 Lab 4 | None
-Lab 5 | None
-Lab 6 | None
-Lab 7 | None
+Course work | None
 
 ## Network protocols
 Task | Link&&Progress
