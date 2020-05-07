@@ -1,4 +1,5 @@
 # Getting my bachelor's degree.
+Now is second term.
 
 ## Computational Mathematics
 Task | Link&&Progress
