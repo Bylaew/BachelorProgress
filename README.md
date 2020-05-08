@@ -64,7 +64,7 @@ Lab 4 | None
 ## Programming technology
 Task | Link&&Progress
 ------------ | -------------
-Lab 1 | None
+Lab 1 | [Done](https://github.com/Bylaew/AVT-810/tree/855853a4c08aff29541a97db15a0b6a6a715629c)
 Lab 2 | None
 Lab 3 | None
 Lab 4 | None
