@@ -65,7 +65,7 @@ Lab 4 | None
 Task | Link&&Progress
 ------------ | -------------
 Lab 1 | [Done](https://github.com/Bylaew/AVT-810/tree/855853a4c08aff29541a97db15a0b6a6a715629c)
-Lab 2 | None
+Lab 2 | [Done](https://github.com/Bylaew/AVT-810/tree/cb8a0f98384ae3dbb6a04611dc961de69989b5c3)
 Lab 3 | None
 Lab 4 | None
 Lab 5 | None
