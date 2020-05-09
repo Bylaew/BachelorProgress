@@ -65,7 +65,7 @@ Lab 4 | None :x:
 Task | Link&&Progress
 ------------ | -------------
 Lab 1 | [Done](https://github.com/Bylaew/AVT-810/tree/855853a4c08aff29541a97db15a0b6a6a715629c) :heavy_check_mark:
-Lab 2 | [Done](https://github.com/Bylaew/AVT-810/tree/cb8a0f98384ae3dbb6a04611dc961de69989b5c3) :heavy_check_mark:
+Lab 2 | [Done](https://github.com/Bylaew/AVT-810/tree/70f86229707bf91ebed215a8555a9349063025fe) :heavy_check_mark:
 Lab 3 | None :x:
 Lab 4 | None :x:
 Lab 5 | None :x:
